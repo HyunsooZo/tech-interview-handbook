@@ -1,2 +1,3 @@
-# tech-interview-handbook
-Tech Interview Handbook
+# Tech Interview Handbook
+
+기술면접 준비 블로그
