@@ -8,3 +8,4 @@
   * [Generic](java/generic.md)
 * [Web](web/README.md)
   * [CORS](web/cors.md)
+  * [URI, URL, URN](web/uri-url-urn.md)
