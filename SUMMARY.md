@@ -14,3 +14,4 @@
 * [DataBase](database/README.md)
   * [데이터베이스 정규화](database/undefined.md)
   * [파티셔닝 & 샤딩](database/and.md)
+  * [Join](database/join.md)
