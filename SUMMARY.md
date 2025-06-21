@@ -6,6 +6,7 @@
   * [Call By Value & Call By Reference](java/call-by-value-and-call-by-reference.md)
   * [Thread & 비동기](java/thread-and.md)
   * [Generic](java/generic.md)
+  * [Memory](java/memory.md)
 * [Spring](spring/README.md)
   * [트랜잭셔널 아웃박스 패턴](spring/undefined.md)
 * [Web](web/README.md)
