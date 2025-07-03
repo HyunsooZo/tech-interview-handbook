@@ -13,6 +13,7 @@
 * [Web](web/README.md)
   * [CORS](web/cors.md)
   * [URI, URL, URN](web/uri-url-urn.md)
+  * ['www.google.com'을 주소창에서 입력하면 일어나는 일](web/www.google.com.md)
 * [DataBase](database/README.md)
   * [데이터베이스 정규화](database/undefined.md)
   * [파티셔닝 & 샤딩](database/and.md)
